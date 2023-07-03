@@ -1,0 +1,32 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #333;
+    background-color: #fff;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.hero h1 {
+    font-family: 'Roboto', sans-serif;
+    color: #4285F4;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.subheading {
+    font-size: 1.8em;
+    margin-bottom: 20px;
+}
+
+.description {
+    margin-bottom: 30px;
+}
+
+.icons img {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
